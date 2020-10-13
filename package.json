@@ -1,0 +1,22 @@
+{
+  "name": "the-radio-storm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramiroaisen/the-radio-storm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramiroaisen/the-radio-storm/issues"
+  },
+  "homepage": "https://github.com/ramiroaisen/the-radio-storm#readme",
+  "dependencies": {
+    "source-map-support": "^0.5.19"
+  }
+}
